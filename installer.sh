@@ -12,8 +12,8 @@
 
 PACKAGE_DIR='Estalker/main'
 
-MY_IPK="enigma2-plugin-extensions-estalker_1.35_all.ipk"
-MY_DEB="enigma2-plugin-extensions-estalker_1.35_all.deb"
+MY_IPK="enigma2-plugin-extensions-estalker_1.36_all.ipk"
+MY_DEB="enigma2-plugin-extensions-estalker_1.36_all.deb"
 
 ########################################################################################################################
 # Auto ... Do not change
